@@ -5,6 +5,9 @@
 .gradle/
 gradle/
 
+# local libs
+lib/
+
 # Compiled class file
 *.class
 
