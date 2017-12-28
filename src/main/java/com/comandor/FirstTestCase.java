@@ -1,11 +1,8 @@
-package test;
+package com.comandor;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-/**
- * http://toolsqa.com/selenium-tutorial/
- */
 public class FirstTestCase {
 
     public static void main(String[] args) throws InterruptedException {
