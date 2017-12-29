@@ -5,8 +5,8 @@
 .gradle/
 gradle/
 
-# local libs
-lib/
+# private data
+data/
 
 # Compiled class file
 *.class
