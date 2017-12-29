@@ -7,6 +7,7 @@ public class SI {
     public static void run() {
         Session session = new Session();
         session.start();
+        session.login();
         session.close();
     }
 }
